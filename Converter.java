@@ -1,0 +1,1 @@
+public class Converter{} // А это мой второй коммент
