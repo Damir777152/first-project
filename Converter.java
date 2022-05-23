@@ -1,1 +1,1 @@
-public class Converter{} // А это мой второй коммент
+public class Converter{} // А это мой второй коммент.
